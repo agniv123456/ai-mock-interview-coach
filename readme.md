@@ -184,3 +184,14 @@ Run the application
 
 python main.py
 
+## 🔐 API Key Note
+
+This project uses the OpenAI API.
+
+⚠️ The API key is not included in this repository for security reasons.
+
+To run the project:
+1. Create a `.env` file in the root directory
+2. Add your API key:
+
+
