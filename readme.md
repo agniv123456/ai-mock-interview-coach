@@ -1,4 +1,4 @@
-\# 🎯 AI Mock Interview Coach (Multi-Agent System)
+\🎯 AI Mock Interview Coach (Multi-Agent System)
 
 
 
@@ -14,7 +14,7 @@ Built as a multi-agent system using LLMs, this project demonstrates prompt engin
 
 
 
-\## 🚀 Features
+\🚀 Features
 
 
 
@@ -34,7 +34,7 @@ Built as a multi-agent system using LLMs, this project demonstrates prompt engin
 
 
 
-\## 🏗️ Architecture Overview
+\🏗️ Architecture Overview
 
 
 
@@ -42,7 +42,7 @@ The system consists of three distinct agents:
 
 
 
-\### 1. Interviewer Agent
+\1. Interviewer Agent
 
 \- Conducts the interview
 
@@ -52,7 +52,7 @@ The system consists of three distinct agents:
 
 
 
-\### 2. Evaluator Agent
+\2. Evaluator Agent
 
 \- Analyzes each candidate response
 
@@ -74,7 +74,7 @@ The system consists of three distinct agents:
 
 
 
-\### 3. Coach Agent
+\3. Coach Agent
 
 \- Reviews full interview transcript
 
@@ -94,7 +94,7 @@ The system consists of three distinct agents:
 
 
 
-\## 🔁 Orchestration Flow
+\🔁 Orchestration Flow
 
 User Input → Interviewer starts
 
@@ -102,7 +102,7 @@ User Input → Interviewer starts
 
 Loop (5–7 turns):
 
-Interviewer → asks question
+Interviewer → asks a question
 
 User → answers
 
@@ -121,7 +121,7 @@ Coach → generates final feedback
 
 
 
-\## 📁 Project Structure
+\📁 Project Structure
 
 mock\_interview/
 
@@ -164,11 +164,11 @@ mock\_interview/
 
 
 
-\## ⚙️ Setup Instructions
+\⚙️ Setup Instructions
 
 
 
-\### 1. Clone the repository
+\1. Clone the repository
 
 
 
